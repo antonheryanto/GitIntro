@@ -2,4 +2,5 @@
 * add issue
 * define milestone
 * pull request
-* merge
+* Add changes
+* squish merge
